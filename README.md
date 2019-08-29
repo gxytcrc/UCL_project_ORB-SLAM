@@ -4,7 +4,7 @@ These github folders includes the all codes in ORB-SLAM system. To make the code
 To run the codes, first, the ORB-SLAM2 should be installed.
 Then, the src and include folders in ORB-SLAM2 should be replaced by the folder2 here.
 
-The main modified codes are ComputeKeyPointsOctTree() function in ORBextractor.cpp; ReconstructH() function in Initializer.cpp; And MonocularInitialization() function in Tracking.cpp. Other place also have some changed including the head files in include folder.
+The main modified codes are ComputeKeyPointsOctTree() function in ORBextractor.cpp; ReconstructH() function in Initializer.cpp; And MonocularInitialization() function in Tracking.cpp. Other places including the source-files and head-files also have some changes.
 
 The ProjectTUM.yaml file should be used for runing SLAM. 
 
